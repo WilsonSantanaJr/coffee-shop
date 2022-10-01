@@ -1,5 +1,5 @@
 # coffee-shop
-Projeto de um site coffee shop.
+Projeto construído do evento da rocketseat coffee shop.
 
 ![preview](github/preview.png)
 
